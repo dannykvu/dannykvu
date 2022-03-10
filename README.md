@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 -->
 
 
-
+[![Awesome](https://img.shields.io/badge/👦Portfolio-blueviolet?&style=for-the-badge)](https://dannykvu.github.io)
 [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://dannykvu.github.io/data/Resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyvu-/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactdannyvu@gmail.com)
-[![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dkv180000@utdallas.edu)
+
 
 <!-- ![Danny's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg) -->
 

@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Esports Collegiate Rocket League Student Athlete at UT-Dallas
 
-### LeetCode Stats
+### LeetCode Stats ✨
 [![Danny's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dannyvu2000&theme=midnight)](https://github.com/KnlnKS/leetcode-stats)
 
 

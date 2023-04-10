@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <!-- ![Danny's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg) -->
 
 ### About Me 👦
-- 🔭 I’m currently working on ... Internship Interviews for Summer'22
-- 🌱 I’m currently learning ... Angular.js
+- 🌱 I’m currently learning ... Flutter/ Web Development
 - 👯 I’m looking to collaborate on ... Anything cool!
 - 📫 How to reach me: ... contactdannyvu@gmail.com
-- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Esports Collegiate Rocket League Student Athlete at UT-Dallas
 
 ### LeetCode Stats ✨

@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!-- ![Danny's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg) -->
 
 ### About Me 👦
-- 🌱 I’m currently learning ... Flutter/ Web Development
+- 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... Anything cool!
 - 📫 How to reach me: ... contactdannyvu@gmail.com
-- ⚡ Fun fact: ... Esports Collegiate Rocket League Student Athlete at UT-Dallas
+- ⚡ Fun fact: ... Esports Collegiate Rocket League Student Athlete at UT-Dallas [Liquipedia](https://liquipedia.net/rocketleague/Ghost_(American_Player))
 
 ### LeetCode Stats ✨
 [![Danny's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dannyvu2000&theme=midnight)](https://github.com/KnlnKS/leetcode-stats)
